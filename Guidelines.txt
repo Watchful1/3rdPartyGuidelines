@@ -39,6 +39,7 @@ The team will review your pack and respond with what needs to be corrected or th
 [*]png splash image (420x200 pixels)
 [*]png icon image (42x42 pixels)
 [/LIST]
+These items should all be in the root of the zip, ie, not under another folder.
 If it is a public pack, you may also link to a seperate zip of server files to be added to the launcher.
 [SPOILER="Details"]
 These are a number of finer details that are not necessary for submitting a pack, but may be helpful for pack authors who wish to have more control over their pack.
