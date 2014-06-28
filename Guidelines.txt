@@ -52,7 +52,9 @@ These are a number of finer details that are not necessary for submitting a pack
 
 [B]Pack author:[/B] If you don't specify this, the forum username of the submitter will be used.
 
-[B] Forge Version:[/B] If you don't specify this, the current recommended version will be used. This can change week to week and may break your pack if you do not specify.
+[B]Forge Version:[/B] If you don't specify this, the current recommended version will be used. This can change week to week and may break your pack if you do not specify.
+
+[B]Pack Images:[/B] Pack images must be of the dimensions specified and must be png's. If either image is over 150kb, it will be compressed.
 [/SPOILER]
 
 (1.5.2) means this item only applies to pack for Minecraft 1.5.2 and lower.
