@@ -1,0 +1,95 @@
+A 3rd party modpack is a modpack distributed through the FTB launcher that is not maintained by the FTB team.
+
+[B][SIZE=3]There are three types of 3rd party modpacks:[/SIZE][/B]
+[LIST]
+[*][B][SIZE=4]Private Packs:[/SIZE][/B]
+[/LIST]
+[INDENT]These are packs used only on one specific server. Their intention is to allow servers to customize their server experience without compromising the ease of installation offered by the FTB launcher. These modpacks must only be accessible behind a application process of some form. The code may not be posted publicly.[/INDENT]
+[LIST]
+[*][B][SIZE=4]Public Packs:[/SIZE][/B]
+[/LIST]
+[INDENT]These are public modpacks intended to be used by the general populace, but they are still behind a code. They can also be intended for a specific server where there is no application process. The code may be posted publicly.[/INDENT]
+[LIST]
+[*][B][SIZE=4]Listed Public Packs:[/SIZE][/B]
+[/LIST]
+[INDENT]These are public modpacks that have been recognized by the FTB team as being well built, unique and popular. They are added to the main list on the launcher. You do not submit these. The FTB team will promote public packs we consider to meet our criteria[/INDENT]
+
+3rd Party modpack submissions should be PM'd to the [URL='http://forum.feed-the-beast.com/conversations/add?to=Watchful11,tfox83,Flenix,Caigan,IBeRamen']3rd Party Modpack Team[/URL]. This message should briefly explain whether you are submitting a private or public pack, what you will be using it for and have a link to a download of a zip file (your_pack_name.zip) containing the following: [URL='https://dl.dropboxusercontent.com/u/27836116/examplePack.zip']Sample modpack download[/URL]
+The team will review your pack and respond with what needs to be corrected or that the pack will be uploaded on the regular upload days of Thursday and Friday.
+[LIST]
+[*]A plain text file containing the following. Example in the sample modpack above.
+[LIST]
+[*]The name of the modpack
+[*]Permissions for non-listed and non-open mods, see below
+[*](optional)Pack code
+[*](optional)Pack description
+[*](optional)Minecraft version, major versions from 1.2.5 to 1.7.2
+[*](optional)Pack version
+[*](optional)Pack author
+[*](optional)(1.6)Forge version
+[/LIST]
+[*]A minecraft folder. This should contain:
+[LIST]
+[*]The mods folder
+[*]The config folder
+[*](1.5.2)coremods folder
+[*](1.5.2)libs folder
+[/LIST]
+[*](1.5.2)instmods folder
+[*]png splash image (420x200 pixels)
+[*]png icon image (42x42 pixels)
+[/LIST]
+If it is a public pack, you may also link to a seperate zip of server files to be added to the launcher.
+[SPOILER="Details"]
+These are a number of finer details that are not necessary for submitting a pack, but may be helpful for pack authors who wish to have more control over their pack.
+
+[B]Pack code:[/B] The modpack code can only consist of lowercase and uppercase letters as well as numbers.
+
+[B]Pack description:[/B] The description is a string of arbitrary length. It is displayed with html, so you can use any html tags to format it. This also means that regular newline characters do not display. You should put </br> to force a new line. (soon) I will auto check the description for any html tags. If none are found, I will insert </br> for newlines.
+
+[B]Pack version:[/B] [URL='http://en.wikipedia.org/wiki/Software_versioning#Semantic_versioning']Semantic versioning[/URL], for example X.Y.Z, the submitter can increase the X, Y or Z when updates are submitted.  Only numbers may be used.  If you don't specify a version, the pack will start at version 1 and increment each time you submit an update.
+
+[B]Pack author:[/B] If you don't specify this, the forum username of the submitter will be used.
+
+[B] Forge Version:[/B] If you don't specify this, the current recommended version will be used. This can change week to week and may break your pack if you do not specify.
+[/SPOILER]
+
+(1.5.2) means this item only applies to pack for Minecraft 1.5.2 and lower.
+(1.6) means this item only applies to packs for Minecraft 1.6 and higher.
+(optional) means we will choose a default or random value for this item if it is not included.
+(soon) means this specific feature is not yet available.
+
+Maps saves and resource packs can also be included with your submission as long as you can prove you have permission to use it.
+
+[B][SIZE=4]Permissions:[/SIZE][/B]
+If you are submitting a public modpack be sure you understand the differences when gathering your permissions, some mod authors have different permissions for public modpacks versus private ones.
+[LIST]
+[*]If a mod is listed on the [URL='https://onedrive.live.com/view.aspx?resid=96628E67B4C51B81!161&ithint=file%2c.xlsx&app=Excel&authkey=!APQ4QtFrBqa1HwM']permissions spreadsheet[/URL] as Open or FTB, you may list the mod name, author and the word "spreadsheet"
+[*]If a mod is listed on the spreadsheet as anything else, you need to list the mod name and a link to permission for that mod. Permission should be a direct link to a public post or screenshot of the author giving you permission.
+
+[*]If a mod is not listed on the spreadsheet, you must list the following:
+[LIST]
+[*]The name of the mod.
+[*]The author or authors of the mod.
+[*]A link to the main page of the mod.
+[*]If the above link does not include the license for the mod, include a link to the license.
+[*]If the license does not grant open permission, include a link to a public post or screenshot of the author giving you permission.
+[/LIST]
+[*]If you include a mod that is made by yourself it still needs to be listed.  If it is a published mod include a link to the page proving you are the author.
+[/LIST]
+[B][SIZE=4]How to Update Your Modpack:[/SIZE][/B]
+Respond to the PM coversation with the following:
+[LIST]
+[*]A link to the full pack download just like your original submission, minus the images.
+[*]Images should only be included if they are changed.
+[*]A note of any added mods.  You don't have to specify the new permission in the message, but you should note the names of the new mods.
+[*]A note if anything in the info file has changed other than the mods.
+[/LIST]
+Pack updates are uploaded on Thursday or Friday.
+
+We have the permissions sections for official modpacks [URL='http://forum.feed-the-beast.com/threads/extendable-permissions-for-official-ftb-modpacks.46476/'']here[/URL].
+[B]**Donations to cover running costs are acceptable, however, profit generation from modpacks is strictly prohibited**[/B]
+
+[CENTER]Below @[URL='http://forum.feed-the-beast.com/members/tfox83.40195/']tfox83[/URL] put together a video showing how get a modpack ready for submission.[/CENTER]
+
+[CENTER][media=youtube]11nwdbWOdJE[/media][/CENTER]
