@@ -23,7 +23,7 @@ The team will review your pack and respond with what needs to be corrected or th
 [*]Permissions for non-listed and non-open mods, see below
 [*](optional)Pack code
 [*](optional)Pack description
-[*](optional)Minecraft version, major versions from 1.2.5 to 1.7.2
+[*](optional)Minecraft version, major versions from 1.2.5 to 1.7.10
 [*](optional)Pack version
 [*](optional)Pack author
 [*](optional)(1.6)Forge version
