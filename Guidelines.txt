@@ -89,7 +89,7 @@ Respond to the original PM conversation with the following:
 [LIST]
 [*]A link to the full pack download just like your original submission, minus the images.
 [*]Images should only be included if they are changed.
-[*]A note of any added mods.  You don't have to specify the new permission in the message, but you should note the names of the new mods.
+[*]A note of any added mods.  You don't have to specify the new permission in the message, but you should note the names of the new mods.  Please include permissions for new mods in your info.txt or spreadsheet.
 [*]A note if anything in the info file has changed other than the mods.
 [/LIST]
 Pack updates are uploaded on Thursday or Friday.
