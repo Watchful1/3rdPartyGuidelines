@@ -14,9 +14,9 @@ A 3rd party modpack is a modpack distributed through the FTB launcher that is no
 [/LIST]
 [INDENT]These are public modpacks that have been approved by the FTB team for being well built, unique (modlist should be at least 60 percent different from Official FTB Modpacks and all 3rd Party Packs) and has a proper support thread or website. A modpack author may request their pack become a listed public pack only after the pack has been on the launcher as a nonlisted public pack for at least two weeks. If approved the pack is added to the 3RD PARTY PACKS list on the launcher.[/INDENT]
 
-3rd Party modpack submissions should be PM'd to the [URL='http://forum.feed-the-beast.com/conversations/add?to=Watchful11,tfox83,Flenix,Caigan,IBeRamen']3rd Party Modpack Team[/URL]. This message should briefly explain whether you are submitting a private or public pack, what you will be using it for and have a public link to a download of a zip file (your_pack_name.zip) containing the following: [URL='https://dl.dropboxusercontent.com/u/27836116/examplePack.zip']Sample modpack download[/URL]
-Download sites we support at this time are: Dropbox, Microsoft OneDrive, Google Drive, MediaFire, Mega and a self managed server or website with a direct link.
-The team will review your pack and respond with what needs to be corrected or that the pack will be uploaded on the regular upload days of Thursday and Friday.
+Submit your 3rd Party Modpack by filling out this [URL='http://']form.[/URL] Once you submit your pack you will be directed to a private forum thread where a 3rd party team member will respond with infomation about your submisison.  Please do not expect a response immediately as many packs are submitted daily.  This thread will also be where updates are submitted.
+Download sites we support at this time are: Dropbox, Microsoft OneDrive, Google Drive, MediaFire, Mega or a direct download link.
+If your pack is approved it will be uploaded on the regular upload days of Thursday and Friday.
 [LIST]
 [*]A plain text file containing the following. Example in the sample modpack above.
 [LIST]
@@ -37,10 +37,10 @@ The team will review your pack and respond with what needs to be corrected or th
 [*](1.5.2)libs folder
 [/LIST]
 [*](1.5.2)instmods folder
-[*]png splash image (420x200 pixels)
+[*]png splash image (420x200 pixels) Image file size not to exceed 150KB
 [*]png icon image (42x42 pixels)
 [/LIST]
-These items should all be in the root of the zip, ie, not under another folder.
+These items should all be in the root of the zip, ie, not under another folder.  The zip file should be named YourModPack-Version.zip.  Please see this [URL='https://dl.dropboxusercontent.com/u/27836116/examplePack.zip']sample modpack download.[/URL]
 If it is a public pack, you may also link to a seperate zip of server files to be added to the launcher.
 [SPOILER="Details"]
 These are a number of finer details that are not necessary for submitting a pack, but may be helpful for pack authors who wish to have more control over their pack.
@@ -86,7 +86,7 @@ If you are submitting a public modpack be sure you understand the differences wh
 This list may be in the info file or on a spreadsheet. Both a spreadsheet document in the zip as well as a link in the info file to a public google spreadsheet are accepted.
 
 [B][SIZE=4]How to Update Your Modpack:[/SIZE][/B]
-Respond to the original PM conversation with the following:
+Respond to the original thread created in the "Your Modpack" subforum with the following:
 [LIST]
 [*]A link to the full pack download just like your original submission, minus the images.
 [*]Images should only be included if they are changed.
