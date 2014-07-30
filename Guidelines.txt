@@ -6,13 +6,13 @@ A 3rd party modpack is a modpack distributed through the FTB launcher that is no
 [/LIST]
 [INDENT]These are packs used only on one specific server. Their intention is to allow servers to customize their server experience without compromising the ease of installation offered by the FTB launcher. These modpacks must only be accessible behind a application process of some form. The code may not be posted publicly.[/INDENT]
 [LIST]
-[*][B][SIZE=4]Public Packs:[/SIZE][/B]
+[*][B][SIZE=4]Unlisted Public Packs:[/SIZE][/B]
 [/LIST]
 [INDENT]These are public modpacks intended to be used by the general populace, but they are still behind a code. They can also be intended for a specific server where there is no application process. The code may be posted publicly.[/INDENT]
 [LIST]
 [*][B][SIZE=4]Listed Public Packs:[/SIZE][/B]
 [/LIST]
-[INDENT]These are public modpacks that have been recognized by the FTB team as being well built, unique and popular. They are added to the main list on the launcher. You do not submit these. The FTB team will promote public packs we consider to meet our criteria[/INDENT]
+[INDENT]These are public modpacks that have been approved by the FTB team for being well built, unique (modlist should be at least 60 percent different from Official FTB Modpacks and all 3rd Party Packs) and has a proper support thread or website. A modpack author may request their pack become a listed public pack only after the pack has been on the launcher as a nonlisted public pack for at least two weeks. If approved the pack is added to the 3RD PARTY PACKS list on the launcher.[/INDENT]
 
 3rd Party modpack submissions should be PM'd to the [URL='http://forum.feed-the-beast.com/conversations/add?to=Watchful11,tfox83,Flenix,Caigan,IBeRamen']3rd Party Modpack Team[/URL]. This message should briefly explain whether you are submitting a private or public pack, what you will be using it for and have a public link to a download of a zip file (your_pack_name.zip) containing the following: [URL='https://dl.dropboxusercontent.com/u/27836116/examplePack.zip']Sample modpack download[/URL]
 Download sites we support at this time are: Dropbox, Microsoft OneDrive, Google Drive, MediaFire, Mega and a self managed server or website with a direct link.
