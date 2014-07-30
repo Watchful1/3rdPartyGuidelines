@@ -15,6 +15,7 @@ A 3rd party modpack is a modpack distributed through the FTB launcher that is no
 [INDENT]These are public modpacks that have been recognized by the FTB team as being well built, unique and popular. They are added to the main list on the launcher. You do not submit these. The FTB team will promote public packs we consider to meet our criteria[/INDENT]
 
 3rd Party modpack submissions should be PM'd to the [URL='http://forum.feed-the-beast.com/conversations/add?to=Watchful11,tfox83,Flenix,Caigan,IBeRamen']3rd Party Modpack Team[/URL]. This message should briefly explain whether you are submitting a private or public pack, what you will be using it for and have a public link to a download of a zip file (your_pack_name.zip) containing the following: [URL='https://dl.dropboxusercontent.com/u/27836116/examplePack.zip']Sample modpack download[/URL]
+Download sites we support at this time are: Dropbox, Microsoft OneDrive, Google Drive, MediaFire, Mega and a self managed server or website with a direct link.
 The team will review your pack and respond with what needs to be corrected or that the pack will be uploaded on the regular upload days of Thursday and Friday.
 [LIST]
 [*]A plain text file containing the following. Example in the sample modpack above.
