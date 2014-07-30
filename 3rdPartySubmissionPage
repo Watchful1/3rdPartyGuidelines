@@ -7,7 +7,7 @@ Be sure you have read and followed the guidelines [link to 3rd party guidelines]
 Pack Name:
 (required)
 
-Pack Type: (Dropdown with 2 options: Unlisted Public Modpack / Private Modpack
+Pack Type: (Dropdown with 2 options: Unlisted Public Modpack / Private Modpack)
 (required)
 
 Pack Link:
@@ -16,7 +16,7 @@ Pack Link:
 
 Friendly Reminders:
    -Is your modpack zipped up properly in the root of the zip and in a .zip format (not .rar or .7zip)? [link to sample pack]
-   -Is your info.txt properly filled out and all permissions included
+   -Is your info.txt properly filled out and all permissions included?
    -Are all extra files not needed for your modpack removed from the .zip?
    -Are both images .png and less than 150KB in size?
    
