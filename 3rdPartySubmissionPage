@@ -1,7 +1,7 @@
 Third Party Modpack Submission
 
 
-Be sure you have read and followed the guidelines [link to 3rd party guidelines] for Third Party Modpacks before submitting this form.
+Be sure you have read and followed the guidelines [http://forum.feed-the-beast.com/threads/3rd-party-modpack-guidelines.18250/] for Third Party Modpack before submitting this form.
 
 
 Pack Name:
@@ -11,17 +11,17 @@ Pack Type: (Dropdown with 2 options: Unlisted Public Modpack / Private Modpack)
 (required)
 
 Pack Link:
-(required) (Download sites we support at this time are: Dropbox, Microsoft OneDrive, Google Drive, MediaFire, Mega and a self managed server or website with a direct link)
+(required) (Must be a link to Dropbox, Microsoft OneDrive, Google Drive, MediaFire, Mega or a direct download link)
 
 
 Friendly Reminders:
-   -Is your modpack zipped up properly in the root of the zip and in a .zip format (not .rar or .7zip)? [link to sample pack]
+   -Is your modpack a zip file (not .rar or .7zip) with the minecraft folder in the root of the zip? [https://dl.dropboxusercontent.com/u/27836116/examplePack.zip]
    -Is your info.txt properly filled out and all permissions included?
-   -Are all extra files not needed for your modpack removed from the .zip?
+   -Are all extra files not needed for your modpack removed from the zip?
    -Are both images .png and less than 150KB in size?
    
    
-By clicking submit you acknowledge you have full permissions required to distibute your modpack in a public or private manner on the Feed The Beast Launcher.
+By clicking submit you acknowledge you have full permissions to distibute your modpack in a publicly or privately on the Feed The Beast Launcher.
 
 
 [Submit]
