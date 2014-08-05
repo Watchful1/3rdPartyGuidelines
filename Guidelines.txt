@@ -27,6 +27,7 @@ If your pack is approved it will be uploaded on the regular upload days of Thurs
 [*](optional)Minecraft version, major versions from 1.2.5 to 1.7.10
 [*](optional)Pack version
 [*](optional)Pack author
+[*](optional)Semicolon seperated mod list
 [*](optional)(1.6)Forge version
 [/LIST]
 [*]A minecraft folder. This should contain:
