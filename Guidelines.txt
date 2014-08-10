@@ -94,7 +94,7 @@ Respond to the original thread created in the "Your Modpack" subforum with the f
 [*]A note of any added mods.  You don't have to specify the new permission in the message, but you should note the names of the new mods.  Please include permissions for new mods in your info.txt or spreadsheet.
 [*]A note if anything in the info file has changed other than the mods.
 [/LIST]
-Pack updates are uploaded on Thursday or Friday.
+Pack updates are uploaded on Thursday or Friday. If your update goes bad, we are happy to upload a hotfix over the weekend.
 
 We have the permissions sections for official modpacks [URL='http://forum.feed-the-beast.com/threads/extendable-permissions-for-official-ftb-modpacks.46476/']here[/URL].
 [B]**Donations to cover running costs are acceptable, however, profit generation from modpacks is strictly prohibited**[/B]
