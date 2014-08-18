@@ -48,7 +48,7 @@ These are a number of finer details that are not necessary for submitting a pack
 
 [B]Pack code:[/B] The modpack code can only consist of lowercase and uppercase letters as well as numbers.
 
-[B]Pack description:[/B] The description is a string of arbitrary length. It is displayed with html, so you can use any html tags to format it. This also means that regular newline characters do not display. You should put </br> to force a new line. (soon) I will auto check the description for any html tags. If none are found, I will insert </br> for newlines.
+[B]Pack description:[/B] The description is a string of arbitrary length. It is displayed with html, so you can use any html tags to format it. This also means that regular newline characters do not display. You should put <br> to force a new line. (soon) I will auto check the description for any html tags. If none are found, I will insert <br> for newlines.
 
 [B]Pack version:[/B] [URL='http://en.wikipedia.org/wiki/Software_versioning#Semantic_versioning']Semantic versioning[/URL], for example X.Y.Z, the submitter can increase the X, Y or Z when updates are submitted.  Only numbers may be used.  If you don't specify a version, the pack will start at version 1 and increment each time you submit an update.
 
