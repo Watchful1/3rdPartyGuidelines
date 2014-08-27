@@ -1,1 +1,73 @@
-New guidelines here
+A 3rd party modpack is a modpack distributed through the FTB launcher that is not maintained by the FTB team.
+
+[B][SIZE=3]There are three types of 3rd party modpacks:[/SIZE][/B]
+[LIST]
+[*][B][SIZE=4]Private Packs:[/SIZE][/B]
+[/LIST]
+[INDENT]These are packs used only on one specific server. Their intention is to allow servers to customize their server experience without compromising the ease of installation offered by the FTB launcher. These modpacks must only be accessible behind a application process of some form. The code may not be posted publicly.[/INDENT]
+[LIST]
+[*][B][SIZE=4]Unlisted Public Packs:[/SIZE][/B]
+[/LIST]
+[INDENT]These are public modpacks intended to be used by the general populace, but they are still behind a code. They can also be intended for a specific server where there is no application process. The code may be posted publicly.[/INDENT]
+[LIST]
+[*][B][SIZE=4]Listed Public Packs:[/SIZE][/B]
+[/LIST]
+[INDENT]These are public modpacks that have been approved by the FTB team for being well built, unique and have a proper support thread or website. A modpack author may submit their pack for consideration for listed status only after the pack has been on the launcher as a nonlisted public pack for at least two weeks. If approved the pack is added to the 3RD PARTY PACKS list on the launcher.[/INDENT]
+
+Submitting your pack:
+Submit your 3rd Party Modpack by filling out this [URL='http://forum.feed-the-beast.com/forms/3/respond']form[/URL]. Once you submit your pack you will be directed to a private forum thread where a 3rd party team member will respond with infomation about your submission within 72 hours. 
+
+Most of the fields are self explanatory, but here are specific instructions for the Link field and the permissions section.
+The link is the pack itself. It must be hosted on mega.co.nz, dropbox.com, mediafire.com, onedrive.live.com or drive.google.com. A direct link, one that returns the zip without any additional clicking, is acceptable as well, though we reserve the right to refuse to accept a specific host at our descretion.
+The zip should only consist of the files necessary to pack, minus Forge. In most cases this will only be the minecraft folder with the mods and configs folders inside. You should also include 42x42 pixel and a 420x200 pixel png images. Each should be under 150kb in size. If the images are not submitted, defaults will be used. [url='https://dl.dropboxusercontent.com/u/27836116/examplePack.zip']Here is an example[\url].
+
+Here is the [url='https://onedrive.live.com/view.aspx?resid=96628E67B4C51B81!161&ithint=file%2cxlsx&app=Excel&authkey=!APQ4QtFrBqa1HwM']permissions spreadsheet[\url] for reference. As mentioned at the top of this document, there is a difference between public and private packs. Refer to either the public policy or the private policy columns depending the type of pack you are submitting.
+[LIST]
+[*]If a mod is on the spreadsheet and is listed as "Open" or "FTB", you don't have to do anything with it.
+[*]If a mod is on the spreadsheet, but is listed as "Notify" or "Request", write a line in the "Non-open spreadsheet mods" field with the name of the mod and a link to an image hosted on Imgur of you notifying the author or the author giving you permission.
+[*]If a mod is not on the spreadsheet, write a line in the "Other mods" field with the following.
+[LIST]
+[*]Name of the mod
+[*]Author of the mod
+[*]A link to the mod page
+[*]If the license for the mod is not at the previous link, a link to the license
+[*]If the license does not give permission, a link to an image hosted on Imgur of the author giving permission.
+[\LIST]
+[\LIST]
+We anticipate that more than 95% of mods will be listed as "Open" on the spreadsheet and will not require any effort on your part.
+[SPOILER="Details"]
+These are a number of finer details that are not necessary for submitting a pack, but may be helpful for pack authors who wish to have more control.
+
+[B]Server link:[/B] This is a link to a zip of server files for the pack. They will be available through the launcher similar to the official FTB pack server files. This is only for public packs.
+
+[B]Description:[/B] The description is a string of arbitrary length. It is displayed with html, so you can use any html tags to format it. If no html tags are in your description, we will insert <br> in place of new lines so they display properly.
+
+[B]pack version:[/B] Only numbers and .'s may be used. We suggest [URL='http://en.wikipedia.org/wiki/Software_versioning#Semantic_versioning']Semantic versioning[/URL], for example X.Y.Z, the submitter can increase the X, Y or Z when updates are submitted. If you don't specify a version, the pack will start at version 1.0.0 and increment each time you submit an update.
+
+[B]Pack code:[/B] The modpack code can only consist of lowercase and uppercase letters as well as numbers.
+
+[B]Minecraft version:[/B] If you don't give the minecraft version, we'll make a reasonable guess.
+
+[B]Forge Version:[/B] If you don't specify this, the current recommended version for the minecraft version of your pack will be used. This can change week to week and may break your pack if you do not specify.
+
+[B]Author:[/B] If you don't specify this, the forum username of the submitter will be used.
+
+[B]Pack Images:[/B] Pack images must be of the dimensions specified and must be png's. If either image is over 150kb, it will be compressed. They are used [url='http://i.imgur.com/2MLhC4j.png']as so[\url].
+
+[B]Zip Name:[/B] The zip file should be named following this convention. Packname-Packversion.zip
+[/SPOILER]
+
+Updating your pack:
+Reply to your thread, can be found [url='http://forum.feed-the-beast.com/forum/your-modpacks.153/]here[\url] once you have submitted the pack, with a link to the complete zip for your pack. The images should not be included unless they have changed.
+
+Give in your message any updated details about the pack, new description, any new permissions, new forge version, etc.
+
+A 3rd party team member will update your pack within 72 hours and respond once they have done so.
+
+Additional submitters:
+If you have a team and want multiple people to be able to submit updates, have each of them fill our [url='http://forum.feed-the-beast.com/forms/add-a-secondary-updater.4/respond']this form[\url].
+
+[B]**Donations to cover running costs are acceptable, however, profit generation from modpacks is strictly prohibited**[/B]
+
+This is an extensive video by @tfox83 covering the pack submission and update process.
+[media=youtube]ZSCQnJQg_xw[/media][/quote]
