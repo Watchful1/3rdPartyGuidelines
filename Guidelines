@@ -12,16 +12,16 @@ A 3rd party modpack is a modpack distributed through the FTB launcher that is no
 [LIST]
 [*][B][SIZE=4]Listed Public Packs:[/SIZE][/B]
 [/LIST]
-[INDENT]These are public modpacks that have been approved by the FTB team for being well built, unique and have a proper support thread or website. A modpack author may submit their pack for consideration for listed status only after the pack has been on the launcher as a nonlisted public pack for at least two weeks. If approved the pack is added to the 3RD PARTY PACKS list on the launcher.[/INDENT]
+[INDENT]These are public modpacks that have been approved by the FTB team for being well built, unique and have a proper support thread or website. A modpack author may submit their pack for consideration for listed status only after the pack has been on the launcher as a unlisted public pack for at least two weeks. If approved the pack is added to the 3RD PARTY PACKS list on the launcher.[/INDENT]
 
 [B][SIZE=4]Submitting your pack:[/SIZE][/B]
 Submit your 3rd Party Modpack by filling out this [URL='http://forum.feed-the-beast.com/forms/3/respond']form[/URL]. Once you submit your pack you will be directed to a private forum thread where a 3rd party team member will respond with infomation about your submission within 72 hours. 
 
-Most of the fields are self explanatory, but here are specific instructions for the Link field and the permissions section.
+Most of the fields are self-explanatory, but here are specific instructions for the Link field and the permissions section.
 The link is the pack itself. It must be hosted on mega.co.nz, dropbox.com, mediafire.com, onedrive.live.com or drive.google.com. A direct link, one that returns the zip without any additional clicking, is acceptable as well, though we reserve the right to refuse to accept a specific host at our descretion.
 The zip should only consist of the files necessary to pack, minus Forge. In most cases this will only be the minecraft folder with the mods and configs folders inside. You should also include 42x42 pixel and a 420x200 pixel png images. Each should be under 150kb in size. If the images are not submitted, defaults will be used. [url='https://dl.dropboxusercontent.com/u/27836116/examplePack.zip']Here is an example[/url].
 
-Here is the [url='https://onedrive.live.com/view.aspx?resid=96628E67B4C51B81!161&ithint=file%2cxlsx&app=Excel&authkey=!APQ4QtFrBqa1HwM']permissions spreadsheet[/url] for reference. As mentioned at the top of this document, there is a difference between public and private packs. Refer to either the public policy or the private policy columns depending the type of pack you are submitting.
+Here is the [url='https://onedrive.live.com/view.aspx?resid=96628E67B4C51B81!161&ithint=file%2cxlsx&app=Excel&authkey=!APQ4QtFrBqa1HwM']permissions spreadsheet[/url] for reference. As mentioned at the top of this document, there is a difference between public and private packs. Refer to either the public policy or the private policy columns depending on the type of pack you are submitting.
 [LIST]
 [*]If a mod is on the spreadsheet and is listed as "Open" or "FTB", you don't have to do anything with it.
 [*]If a mod is on the spreadsheet, but is listed as "Notify" or "Request", write a line in the "Non-open spreadsheet mods" field with the name of the mod and a link to an image hosted on Imgur of you notifying the author or the author giving you permission.
