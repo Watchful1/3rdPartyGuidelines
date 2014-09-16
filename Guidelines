@@ -46,7 +46,7 @@ These are a number of finer details that are not necessary for submitting a pack
 
 [B]Pack code:[/B] The modpack code can only consist of lowercase and uppercase letters as well as numbers.
 
-[B]Minecraft version:[/B] If you don't give the minecraft version, we'll make a reasonable guess.
+[B]Minecraft version:[/B] Minecraft versions 1.6.4, 1.7.2 and 1.7.10 are supported. If you don't give the minecraft version, we'll make a reasonable guess.
 
 [B]Forge Version:[/B] If you don't specify this, the current recommended version for the minecraft version of your pack will be used. This can change week to week and may break your pack if you do not specify.
 
