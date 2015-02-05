@@ -25,7 +25,7 @@ Submit your 3rd Party Modpack by filling out this [URL='http://forum.feed-the-be
 
 Most of the fields are self-explanatory, but here are specific instructions for the Link field and the permissions section.
 The link is the pack itself. It must be hosted on dropbox.com, mediafire.com, onedrive.live.com or drive.google.com. A direct link, one that returns the zip without any additional clicking, is acceptable as well, though we reserve the right to refuse to accept a specific host at our descretion.
-The zip should only consist of the files necessary to pack, minus Forge. In most cases this will only be the minecraft folder with the mods and configs folders inside. You should also include 42x42 pixel and a 420x200 pixel png images. Each should be under 150kb in size. If the images are not submitted, defaults will be used. [URL='https://dl.dropboxusercontent.com/u/27836116/examplePack.zip']Here is an example[/URL].
+The zip should only consist of the files necessary to pack, minus Forge. In most cases this will only be the minecraft folder with the mods and configs folders inside. You may also include 42x42 pixel and a 420x200 pixel png images. Each must be under 150kb in size. If the images are not submitted, defaults will be used. [URL='https://dl.dropboxusercontent.com/u/27836116/examplePack.zip']Here is an example[/URL].
 
 Here is the [URL='https://onedrive.live.com/view.aspx?resid=96628E67B4C51B81!161&ithint=file%2cxlsx&app=Excel&authkey=!APQ4QtFrBqa1HwM']permissions spreadsheet[/URL] for reference. As mentioned at the top of this document, there is a difference between public and private packs. Refer to either the public policy or the private policy columns depending on the type of pack you are submitting.
 [LIST]
@@ -41,10 +41,17 @@ Here is the [URL='https://onedrive.live.com/view.aspx?resid=96628E67B4C51B81!161
 [/LIST]
 [/LIST]
 We anticipate that more than 95% of mods will be listed as "Open" on the spreadsheet and will not require any effort on your part.
+[SPOILER="FastCraft - Important"]
+If you are including fastcraft in your pack, add the following line or something similar in your pack description.
+
+This pack contains <a color="aqua" href="http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820">Fastcraft</a>, by Player, enabled by default.  Fastcraft enhances Minecraft with increased performance. Bug reports being made directly to Mod Authors should state Fastcraft is enabled.
+
+We have decided to require notifying Player of inclusion in modpacks. Hence you will need to post a screenshot of the notification.
+[/SPOILER]
 [SPOILER="Details"]
 These are a number of finer details that are not necessary for submitting a pack, but may be helpful for pack authors who wish to have more control.
 
-[B]Server link:[/B] This is a link to a zip of server files for the pack. They will be available through the launcher similar to the official FTB pack server files. This is only for public packs. Due to the ongoing legal problems with bukkit, cauldron server files are not permitted.
+[B]Server link:[/B] This is a link to a zip of server files for the pack. They will be available through the launcher similar to the official FTB pack server files. This is only for public packs. Due to the ongoing legal problems with bukkit, cauldron server files are not permitted. The server files are uploaded as is. We recommend taking the server files from one of the official packs and inserting your own mods and configs folders.
 
 [B]Description:[/B] The description is a string of arbitrary length. It is displayed with html, so you can use any html tags to format it. If no html tags are in your description, we will insert <br> in place of new lines so they display properly.
 
@@ -52,25 +59,42 @@ These are a number of finer details that are not necessary for submitting a pack
 
 [B]Pack code:[/B] The modpack code can only consist of lowercase and uppercase letters as well as numbers.
 
-[B]Minecraft version:[/B] Minecraft versions 1.6.4, 1.7.2 and 1.7.10 are supported. If you don't give the minecraft version, we'll make a reasonable guess.
+[B]Minecraft version:[/B] Minecraft versions 1.6.4, 1.7.2, 1.7.10 and 1.8 are supported. If you don't give the minecraft version, we'll make a reasonable guess.
 
 [B]Forge Version:[/B] If you don't specify this, the current recommended version for the minecraft version of your pack will be used. This can change week to week and may break your pack if you do not specify.
 
 [B]Author:[/B] If you don't specify this, the forum username of the submitter will be used.
 
-[B]Pack Images:[/B] Pack images must be of the dimensions specified and must be png's. If either image is over 150kb, it will be compressed. They are used [URL='http://i.imgur.com/2MLhC4j.png']as so[/URL].
+[B]Pack Images:[/B] Pack images are optional. They must be of the dimensions specified and must be png's. If either image is over 150kb, it will be compressed. They are used [URL='http://i.imgur.com/2MLhC4j.png']as so[/URL]. They should be named packname-icon.png and packname-splash.png.
 
 [B]Zip Name:[/B] The zip file should be named following this convention. Packname-Packversion.zip
 [/SPOILER]
 
 [B][SIZE=4]Updating your pack:[/SIZE][/B]
-Reply to your thread, can be found [URL='http://forum.feed-the-beast.com/forum/your-modpacks.153/']here[/URL] once you have submitted the pack, with a link to the complete zip for your pack. The images should not be included unless they have changed.
+Reply to your thread, which can be found [URL='http://forum.feed-the-beast.com/forum/your-modpacks.153/']here[/URL] once you have submitted the pack, with a link to the complete new zip. The images should not be included unless they have changed. You can change your pack code at infrequent intervals, but the old code will remain available. However, only the new code will update.
+
+You cannot update only the server, forge version, images, description or any other pack details. These must be updated with a full pack update.
 
 Give in your message any updated details about the pack, new description, any new permissions, new forge version, etc.
 
 A 3rd party team member will update your pack within 72 hours and respond once they have done so.
 
 If you have a team and want multiple people to be able to submit updates, have each of them fill [URL='http://forum.feed-the-beast.com/forms/add-a-secondary-updater.4/respond']this form[/URL].
+
+[SPOILER="Forum Tags"]
+We use four tags on the private pack threads to indicate upload status.
+[LIST]
+[*]Awaiting Approval: This indicates that your pack is not on the launcher and a team member has not checked it yet.
+[*]Denied: This indicates you are missing permission on your initial submission. Simply provide the requested permissions in the same thread to proceed.
+[*]Approved: Your pack has been approved and is now on the launcher.
+[*]Upload Waiting: Your pack is on the launcher, but has a new upload waiting.
+[/LIST]
+Awaiting Approval and Denied are only used on an initial pack submission. A pack update with missing perms is moved back to the Approved tag.
+
+Tags are set by the team and are an indication that we know you have something waiting and we will get to it as soon as possible.
+
+Do not bump update threads. We work from the oldest unanswered thread to the newest, so bumping your thread will only result in taking longer for us to address it.
+[/SPOILER]
 
 If there are delays or an important problem has been found with the system, we will post an update [URL='http://forum.feed-the-beast.com/threads/status-updates-for-private-mod-pack-owners.18371/']here[/URL].
 
