@@ -27,11 +27,11 @@ Most of the fields are self-explanatory, but here are specific instructions for 
 The link is the pack itself. It must be hosted on dropbox.com, mediafire.com, onedrive.live.com or drive.google.com. A direct link, one that returns the zip without any additional clicking, is acceptable as well, though we reserve the right to refuse to accept a specific host at our descretion.
 The zip should only consist of the files necessary to pack, minus Forge. In most cases this will only be the minecraft folder with the mods and configs folders inside. You may also include 42x42 pixel and a 420x200 pixel png images. Each must be under 150kb in size. If the images are not submitted, defaults will be used. [URL='https://dl.dropboxusercontent.com/u/27836116/examplePack.zip']Here is an example[/URL].
 
-Here is the [URL='https://onedrive.live.com/view.aspx?resid=96628E67B4C51B81!161&ithint=file%2cxlsx&app=Excel&authkey=!APQ4QtFrBqa1HwM']permissions spreadsheet[/URL] for reference. As mentioned at the top of this document, there is a difference between public and private packs. Refer to either the public policy or the private policy columns depending on the type of pack you are submitting.
+Here is the [URL='http://www.feed-the-beast.com/mods']permissions website[/URL] for reference. As mentioned at the top of this document, there is a difference between public and private packs. Refer to either the public policy or the private policy columns depending on the type of pack you are submitting.
 [LIST]
-[*]If a mod is on the spreadsheet and is listed as "Open" or "FTB", you don't have to do anything with it.
-[*]If a mod is on the spreadsheet, but is listed as "Notify" or "Request", write a line in the "Non-open spreadsheet mods" field with the name of the mod and a link to an image hosted on Imgur of you notifying the author or the author giving you permission.
-[*]If a mod is not on the spreadsheet, write a line in the "Other mods" field with the following.
+[*]If a mod is on the site and is listed as "Open" or "FTB", you don't have to do anything with it.
+[*]If a mod is on the site, but is listed as "Notify" or "Request", write a line in the "Non-open site mods" field with the name of the mod and a link to an image hosted on Imgur of you notifying the author or the author giving you permission.
+[*]If a mod is not on the site, write a line in the "Other mods" field with the following.
 [LIST]
 [*]Name of the mod
 [*]Author of the mod
