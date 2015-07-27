@@ -71,6 +71,33 @@ These are a number of finer details that are not necessary for submitting a pack
 
 [B]Permissions Checking:[/B] @Zlepper has made a helpful tool for checking permissions and compiling packs for submission. You can find it [URL='http://forum.feed-the-beast.com/threads/modpack-packer-a-little-thing-to-pack-all-your-modpacks-for-you.55670/']here[/URL]
 [/SPOILER]
+[SPOILER="Curse Syncing"]
+In partnership with Curse, we offer the ability to sync your modpack from the FTB launcher to the Curse Client.
+
+To opt in to this program, first create a curseforge modpack project using [URL='http://minecraft.curseforge.com/modpacks/create']this form[/URL]. You will need to fill in all the fields, including uploading a square image at least 400x400 pixels. Reply to your modpack thread with the curseforge project ID. This is the approximately 6 digit number that can be found in the url. For example, 231835 is the ID for "http://minecraft.curseforge.com/modpacks/231835-the-hubris-of-magic". We will respond once the pack has been added to the system. It may take up to a few hours for your pack to convert the first time, especially if you have a lot of old versions. Future updates should only take 15-20 minutes.
+
+What will be synced:
+[LIST]
+[*]All existing modpack versions
+[*]All future modpack versions
+[*]The current recommended version on the launcher will be marked recommended on the client
+[/LIST]
+
+What will not be synced:
+[LIST]
+[*]Images
+[*]Author
+[*]Description
+[*]Mod list in the description (unsupported by curse)
+[*]Server files (unsupported by curse)
+[/LIST]
+
+If you already have your modpack on the client, you can still use the existing project ID. Old curseforge versions will be overwritten by old FTB launcher versions. Versions added on the curse side will not sync back to the FTB side.
+
+You must have a public modpack, listed or unlisted, to be eligible. Private modpacks are not currently allowed. In standing with our no profit policy, you may not turn on curse reward points for your project if it goes through this system.
+
+Since this system goes through the normal FTB permission checks, it bypasses the curse permission checks, allowing you to use any mods you can get permission for.
+[/SPOILER]
 
 [B][SIZE=4]Updating your pack:[/SIZE][/B]
 Reply to your thread, which can be found [URL='http://forum.feed-the-beast.com/forum/your-modpacks.153/']here[/URL] once you have submitted the pack, with a link to the complete new zip. The images should not be included unless they have changed. You can change your pack code at infrequent intervals, but the old code will remain available. However, only the new code will update.
