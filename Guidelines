@@ -21,7 +21,7 @@ A 3rd party modpack is a modpack distributed through the FTB launcher that is no
 [/INDENT]
 
 [B][SIZE=4]Submitting your pack:[/SIZE][/B]
-Submit your 3rd Party Modpack by filling out this [URL='http://forum.feed-the-beast.com/forms/3/respond']form[/URL]. Once you submit your pack you will be directed to a private forum thread where a 3rd party team member will respond with infomation about your submission within 72 hours.
+[B]Due to a forum mishap, submission is not currently available. It should be back up in the next day or two (from /8/10/16)[/B] Once you submit your pack you will be directed to a private forum thread where a 3rd party team member will respond with infomation about your submission within 72 hours.
 
 Most of the fields are self-explanatory, but here are specific instructions for the Link field and the permissions section.
 The link is the pack itself. It must be hosted on dropbox.com, mediafire.com, onedrive.live.com or drive.google.com. A direct link, one that returns the zip without any additional clicking, is acceptable as well, though we reserve the right to refuse to accept a specific host at our descretion.
@@ -44,7 +44,7 @@ We anticipate that more than 95% of mods will be listed as "Open" on the spreads
 [SPOILER="FastCraft - Important"]
 If you are including fastcraft in your pack, add the following line or something similar in your pack description.
 
-This pack contains <a color="aqua" href="http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820">Fastcraft</a>, by Player, enabled by default.  Fastcraft enhances Minecraft with increased performance. Bug reports being made directly to Mod Authors should state Fastcraft is enabled.
+This pack contains <a color="aqua" href="[URL]http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820[/URL]">Fastcraft</a>, by Player, enabled by default.  Fastcraft enhances Minecraft with increased performance. Bug reports being made directly to Mod Authors should state Fastcraft is enabled.
 
 We have decided to require notifying Player of inclusion in modpacks. Hence you will need to post a screenshot of the notification.
 [/SPOILER]
@@ -69,7 +69,7 @@ These are a number of finer details that are not necessary for submitting a pack
 
 [B]Zip Name:[/B] The zip file should be named following this convention. Packname-Packversion.zip
 
-[B]Permissions Checking:[/B] @Zlepper has made a helpful tool for checking permissions and compiling packs for submission. You can find it [URL='http://forum.feed-the-beast.com/threads/modpack-packer-a-little-thing-to-pack-all-your-modpacks-for-you.55670/']here[/URL]
+[B]Permissions Checking:[/B] [USER=55443]@Zlepper[/USER] has made a helpful tool for checking permissions and compiling packs for submission. You can find it [URL='http://forum.feed-the-beast.com/threads/modpack-packer-a-little-thing-to-pack-all-your-modpacks-for-you.55670/']here[/URL]
 [/SPOILER]
 [SPOILER="Curse Syncing"]
 In partnership with Curse, we offer the ability to sync your modpack from the FTB launcher to the Curse Client.
